@@ -54,3 +54,5 @@ asyncio
 scrapy
 langchain-community
 serpapi
+colorama
+python-pptx
