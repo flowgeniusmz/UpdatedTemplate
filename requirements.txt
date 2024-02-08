@@ -56,3 +56,12 @@ langchain-community
 serpapi
 colorama
 python-pptx
+whisper
+pydub
+opencv-python-headless
+streamlit-audiorec
+audio-recorder-streamlit
+streamlit-mic-recorder
+streamlit-audiorecorder
+streamlit-chat
+gtts
